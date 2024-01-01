@@ -1,0 +1,90 @@
+body{
+  background-color:rgb(149, 146, 146);
+}
+
+.navbar{
+  background-color: rgb(3, 56, 74);
+  color: aliceblue;
+}
+
+h3{
+  padding-right: 700px;
+}
+
+.form-control{
+  background-color: rgb(67, 67, 67);
+  width: 700px;
+  margin: 130px;
+  position: relative;
+  border: none;
+  border-radius: 20px;
+  top: -100px;
+  left: 350px;
+}
+
+.box1{
+  background-color: rgb(67, 67, 67);
+  margin: 10px;
+  margin-top: -10px;
+  width: 250px;
+  height:520px;
+  border-radius: 20px;
+  position: relative;
+  border: none;
+  border-radius: 10px;
+  top: -200px;
+  left: 10px;
+}
+
+
+.box2{
+  background-color: rgb(67, 67, 67);
+  width: 250px;
+  height: 150px;
+  /* margin: 150px; */
+  border: 1px solid black;
+  border-radius: 20px;
+  border: none;
+  position: absolute;
+  top:200px;
+  left: 400px;
+}
+
+.box3{
+  background-color: rgb(67, 67, 67);
+    width: 250px;
+    height: 150px;
+    /* margin: 150px; */
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+    position: absolute;
+    top:200px;
+    left: 700px;
+}
+
+.box4{
+  background-color: rgb(67, 67, 67);
+  width: 250px;
+  height: 150px;
+  /* margin: 150px; */
+  border: 1px solid black;
+  border: none;
+  border-radius: 20px;
+  position: absolute;
+  top:200px;
+  left: 1000px;
+}
+
+.box5{
+  background-color: rgb(67, 67, 67);
+  width: 900px;
+  height: 240px;
+  /* margin: 150px; */
+  border: 1px solid black;
+  border-radius: 20px;
+  position: absolute;
+  border: none;
+  top: 400px;
+  left: 380px;
+}
